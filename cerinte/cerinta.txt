@@ -1,0 +1,20 @@
+Problema Practică: Galeria de Artă Virtuală
+(50 puncte)
+Scenariu:
+Ai fost angajat să construiești o pagină web pentru o galerie de artă virtuală dedicată unui artist contemporan. Pagina trebuie să ofere vizitatorilor posibilitatea de a explora operele de artă și de a afla mai multe informații despre artist.
+Cerințe:
+Header:
+Numele artistului.
+Un meniu de navigare cu linkuri către: “Acasă“, “Opere de Artă” și “Despre Artist”.
+Secțiunea principală:
+Acasă: O scurtă introducere sau citat reprezentativ al artistului și o imagine sau un banner artistic.
+Opere de Artă: Afișează o selecție de opere de artă într-o grilă. Fiecare operă ar trebui să aibă o imagine miniatură. La click pe o miniatură, utilizatorul vede imaginea la dimensiune completă într-o fereastră modal (popup) cu titlul și descrierea operei.
+Despre Artist: O fotografie a artistului și o scurtă biografie.
+Footer:
+Drepturi de autor și eventual un link către profilul artistului pe o platformă de socializare.
+Stilizare CSS:
+Asigură-te că designul reflectă lumea artei, având un aspect estetic plăcut.
+Pagina trebuie să fie adaptabilă (responsive) pentru diferite dimensiuni de ecran.
+Note:
+Se vor acorda puncte pentru coerența designului și calitatea codului.
+Se așteaptă utilizarea tehnicilor moderne de CSS, pentru a realiza un layout eficient.

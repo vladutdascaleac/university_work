@@ -1,14 +1,14 @@
-.acasaMainBanner {
+.artistImg {
   width: 100%;
   height: 100%;
 }
 .mainDiv {
-  max-width: 70%;
+  max-width: 95%;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
 }
-div.about {
-  margin-top: auto;
-  margin-bottom: auto;
+div.biografie {
+  margin: auto;
+  width: 95%;
 }

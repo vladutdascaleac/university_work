@@ -1,4 +1,0 @@
-Bună dimineața,
-Vă rog ca astăzi să aplicați independent elementele CSS pe care le-am studiat ieri în proiectul început la lecția precedentă, pentru a da viață și culoare paginilor.
-Vă rog să încărcați rezultatul pe profilul Dvs. de GitHub.
-Mulțumesc.

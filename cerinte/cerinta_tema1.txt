@@ -1,9 +1,0 @@
-Bună ziua,
-Pentru mâine, 27 septembrie, în cadrul orei practice, veți avea sarcina de a crea un website simplu format din 2 pagini web.
-Fiecare pagină trebuie să conțină un meniu funcțional care trebuie să includă următoarele opțiuni de navigare: Acasă și Date de contact.
-Pe pagina “Acasă,” aveți libertatea să utilizați elementele HTML precum <div>, <img>, <p>, <b>, <u> pentru a aranja și afișa informațiile într-un mod ergonomic și atractiv.
-Pe pagina “Date de contact” trebuie să prezentați informațiile într-o formă tabulară care include următoarele detalii: Nume, prenume, Email și un link către profilul personal de pe GitHub.
-Vă rugăm să încărcați acest proiect pe platforma GitHub.
-Acest exercițiu vă va permite să exersați crearea unei structuri simple a site-ului, implementarea unui meniu funcțional și organizarea informațiilor într-un format tabular.
-La sfârșitul lectiei, vă rugăm să ne furnizați fiecare link-ul către proiectul vostru pe canalul de Slack, astfel încât să putem verifica progresul vostru.
-Succes!
