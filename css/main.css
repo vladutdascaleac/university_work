@@ -21,27 +21,9 @@ div.menu a:hover:not(.active) {
 .active {
   background-color: #04aa6d;
 }
-div.centerText {
-  text-align: center;
+.mainDiv {
+  margin-left: 36%;
 }
-
-.flex-row {
-  display: flex;
+.mt-1 {
+  margin-top: 8.33%;
 }
-.mainFooter {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  background-color: #fff8dc;
-}
-.footerSpaceBetween {
-  justify-content: space-between;
-}
-/* .left {
-  float: left;
-  width: 50%;
-}
-.right {
-  float: right;
-  width: 50%;
-} */

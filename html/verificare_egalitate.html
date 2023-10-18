@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./../css/main.css" />
+    <script src="./../js/verificare_egalitate.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="menu">
+        <a href="./media_aritmetica.html">Calcularea mediei aritmetice</a>
+        <a href="./comparara2Nr.html">Compararea a două numere</a>
+        <a href="./par_impar.html">Par sau impar</a>
+        <a href="./interschimbare.html"
+          >Schimbarea valorilor a două variabile</a
+        >
+        <a class="active" href="./verificare_egalitate.html"
+          >Verificarea egalității cu “===” și “==”</a
+        >
+      </div>
+    </header>
+    <main>
+      <div class="mainDiv mt-1">
+        <div>
+          <form>
+            <input
+              type="button"
+              onClick="verificareEgalitate()"
+              value='Verifica egalitate intre 5 si "5" folosind "===" si "=="'
+            />
+          </form>
+          <p><span id="rezultat"></span></p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

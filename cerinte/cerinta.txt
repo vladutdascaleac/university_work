@@ -1,20 +1,28 @@
-Problema Practică: Galeria de Artă Virtuală
-(50 puncte)
-Scenariu:
-Ai fost angajat să construiești o pagină web pentru o galerie de artă virtuală dedicată unui artist contemporan. Pagina trebuie să ofere vizitatorilor posibilitatea de a explora operele de artă și de a afla mai multe informații despre artist.
-Cerințe:
-Header:
-Numele artistului.
-Un meniu de navigare cu linkuri către: “Acasă“, “Opere de Artă” și “Despre Artist”.
-Secțiunea principală:
-Acasă: O scurtă introducere sau citat reprezentativ al artistului și o imagine sau un banner artistic.
-Opere de Artă: Afișează o selecție de opere de artă într-o grilă. Fiecare operă ar trebui să aibă o imagine miniatură. La click pe o miniatură, utilizatorul vede imaginea la dimensiune completă într-o fereastră modal (popup) cu titlul și descrierea operei.
-Despre Artist: O fotografie a artistului și o scurtă biografie.
-Footer:
-Drepturi de autor și eventual un link către profilul artistului pe o platformă de socializare.
-Stilizare CSS:
-Asigură-te că designul reflectă lumea artei, având un aspect estetic plăcut.
-Pagina trebuie să fie adaptabilă (responsive) pentru diferite dimensiuni de ecran.
-Note:
-Se vor acorda puncte pentru coerența designului și calitatea codului.
-Se așteaptă utilizarea tehnicilor moderne de CSS, pentru a realiza un layout eficient.
+Bună ziua! Având în vedere materialul teoretic studiat ieri, v-aș ruga să treceți independent la rezolvarea următoarelor exerciții practice propuse pentru astăzi:
+
+Exercițiu 1: Calcularea mediei aritmetice
+Scop: Familiarizarea cu variabilele și operatorii aritmetici.
+Descriere:
+Scrieți un program care primește trei numere și calculează media lor aritmetică, afișând rezultatul.
+
+Exercițiu 2: Compararea a două numere
+Scop: Utilizarea operatorilor de comparație.
+Descriere:
+Scrieți un program care primește două numere și afișează care dintre ele este mai mare sau dacă sunt egale.
+
+Exercițiu 3: Par sau impar
+Scop: Familiarizarea cu operatorii de rest și condiționale.
+Descriere:
+Scrieți un program care determină dacă un număr dat este par sau impar.
+
+Exercițiu 4: Schimbarea valorilor a două variabile
+Scop: Manipularea variabilelor și înțelegerea asignărilor.
+Descriere:
+Fără a utiliza o a treia variabilă temporară, scrieți un program care schimbă valorile a două variabile.
+
+Exercițiu 5: Verificarea egalității cu “===” și “==”
+Scop: Înțelegerea diferenței dintre “===” și “==“.
+Descriere:
+Dându-se două variabile, una cu valoarea 5 și cealaltă cu valoarea "5", scrieți două instrucțiuni de comparare folosind fiecare operator și afișați rezultatele.
+
+Mulțumesc. Vă rog să încărcați rezultatele pe GitHub.
