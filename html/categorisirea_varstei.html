@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./../css/main.css" />
+    <script src="./../js/categorisirea_varstei.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="menu">
+        <a href="./media_aritmetica.html">Calcularea mediei aritmetice</a>
+        <a href="./ziua_saptamanii.html">Determinarea zilei săptămânii</a>
+        <a href="./primele_N_numere_pare.html"
+          >Afișarea primelor N numere pare</a
+        >
+        <a href="./primul_nr_impar.html"
+          >Verificare până la primul număr impar</a
+        >
+        <a class="active" href="./categorisirea_varstei.html"
+          >Categorisirea vârstei folosind operatorul ternar</a
+        >
+      </div>
+    </header>
+    <main>
+      <div class="mainDiv mt-1">
+        <div>
+          <form>
+            <input type="number" id="inputVarstaId" min="0" /><label>
+              Introduceti varsta in ani</label
+            ><br />
+          </form>
+          <br />
+          <input
+            type="button"
+            onClick="categorisireaVarstei()"
+            value="calculeaza"
+          />
+          <br />
+          <p><span id="rezultat"></span></p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
