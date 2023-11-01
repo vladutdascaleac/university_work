@@ -1,22 +1,23 @@
-Pentru lecția de astăzi, vă rog să vă aprofundați în practică și să rezolvați independent următoarele exerciții:
+Buna dimineata, pentru azi va rog sa rezolvati urmatoarele exercitii:
 
-Exercițiu 1: Calcularea mediei aritmetice
-    Scop: Familiarizarea cu variabilele și operatorii aritmetici.
-    Descriere: Scrieți un program care primește trei numere și calculează media lor aritmetică, apoi o afișează.
+Exercițiu 1: Conversia temperaturii
+Scop: Familiarizarea cu declararea și apelarea funcțiilor.
+Descriere: Scrieți o funcție care convertește temperatura din grade Celsius în grade Fahrenheit și invers. Testați funcția cu diferite valori.
 
-Exercițiu 2: Determinarea zilei săptămânii
-    Scop: Înțelegerea și utilizarea instrucțiunii switch.
-    Descriere: Realizați un program care, primind un număr de la 1 la 7, indică ziua săptămânii corespunzătoare.
+Exercițiu 2: Calculul factorialului unui număr
+Scop: Practicarea funcțiilor recursive.
+Descriere: Scrieți o funcție care calculează factorialul unui număr. Testați funcția cu diferite valori.
 
-Exercițiu 3: Afișarea primelor N numere pare
-    Scop: Practicarea buclei for.
-    Descriere: Elaborați un program care afișează primele N numere pare, unde N este specificat de dvs.
+Exercițiu 3: Funcții de ordin superior
+Scop: Înțelegerea conceptului de funcții de ordin superior.
+Descriere: Creați o funcție de ordin superior care primește o funcție callback și o aplică asupra unui array de numere. De exemplu, puteți folosi o funcție callback pentru a dubla fiecare număr din array.
 
-Exercițiu 4: Verificare până la primul număr impar
-    Scop: Familiarizarea cu bucla while și utilizarea instrucțiunii break.
-    Descriere: Utilizând o buclă while, navigați printr-un array de numere până când identificați primul număr impar, moment în care opriți bucla. Exemplu(numere = [2, 4, 6, 5, 8, 10, 11, 12, 14, 15, 18]; )
+Exercițiu 4: Biblioteca de cărți
+Scop: Familiarizarea cu crearea și manipularea obiectelor.
+Descriere: Creați un obiect “Biblioteca” care conține o listă de cărți (un array de obiecte). Fiecare carte ar trebui să aibă proprietăți ca: titlu, autor, și dacă a fost citită sau nu. Adăugați metode pentru a adăuga o carte, a șterge o carte și a afișa toate cărțile citite.
 
-Exercițiu 5: Categorisirea vârstei folosind operatorul ternar
-    Scop: Aplicarea cunoștințelor legate de operatorul ternar.
-    Descriere: Concepți un program care, folosind operatorul ternar, clasifică o vârstă furnizată în categoriile “copil”, “adult” sau “senior”.
-Va multumesc.
+Exercițiu 5: Destructurarea unui obiect
+Scop: Practicarea conceptului de destructurare.
+Descriere: Având un obiect care reprezintă o persoană (cu proprietăți ca: nume, vârstă, ocupatie), folosiți destructurarea pentru a extrage numele și vârsta persoanei în variabile separate.
+
+Multumesc.

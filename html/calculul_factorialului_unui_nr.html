@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./../css/main.css" />
+    <script src="./../js/calculul_factorialului_unui_nr.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="menu">
+        <a href="./conversia_temperaturii.html">Conversia temperaturii</a>
+        <a class="active" href="./calculul_factorialului_unui_nr.html"
+          >Calculul factorialului unui număr</a
+        >
+        <a href="./functii_de_ordin_superior.html">Funcții de ordin superior</a>
+        <a href="./biblioteca_de_carti.html">Biblioteca de cărți</a>
+        <a href="./destructurarea.html">Destructurarea unui obiect</a>
+      </div>
+    </header>
+    <main>
+      <div class="mainDiv mt-1">
+        <div>
+          <form>
+            <input type="number" id="firstNumber" min="0" /><label>
+              Introduceti un numar</label
+            ><br /><br />
+            <input
+              type="button"
+              onClick="factorial()"
+              value="calculeaza"
+            /><br />
+          </form>
+          <p><span id="rezultat"></span></p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

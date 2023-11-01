@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./../css/main.css" />
+    <script src="./../js/biblioteca_de_carti.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="menu">
+        <a href="./conversia_temperaturii.html">Conversia temperaturii</a>
+        <a href="./calculul_factorialului_unui_nr.html"
+          >Calculul factorialului unui număr</a
+        >
+        <a href="./functii_de_ordin_superior.html">Funcții de ordin superior</a>
+        <a class="active" href="./biblioteca_de_carti.html"
+          >Biblioteca de cărți</a
+        >
+        <a href="./destructurarea.html">Destructurarea unui obiect</a>
+      </div>
+    </header>
+    <main>
+      <div class="mainDiv mt-1">
+        <div>
+          <form>
+            <input type="text" id="titluInput" /><label> Titlu</label
+            ><br /><br />
+            <input type="text" id="autorInput" /><label> Autor</label
+            ><br /><br />
+            <span>Am citit-o ? </span>
+            <input type="radio" id="cititaInput" name="amCitit" value="da" />
+            <label for="cititaInput">Da</label>
+            <input
+              type="radio"
+              id="necititaInput"
+              name="amCitit"
+              value="nu"
+              checked
+            />
+            <label for="necititaInput">Nu</label>
+            <br /><br />
+            <input type="button" onClick="adaugaCarte()" value="Adauga carte" />
+            <br /><br />
+            <span id="inputObligatoriuText"></span>
+          </form>
+        </div>
+        <br /><br />
+        <div>
+          <input
+            type="button"
+            onClick="afisareBiblioteca()"
+            value="Afisare biblioteca"
+          />
+
+          <div id="afisareBibliotecaId"></div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
